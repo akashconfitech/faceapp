@@ -43,3 +43,6 @@ yarg==0.1.10
 pytesseract
 Pillow
 pycountry==24.6.1
+opencv-python-headless==4.9.0.80
+numpy==1.26.4
+mediapipe
